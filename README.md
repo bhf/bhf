@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Please note that this profile contains personal code and projects, not associated with my work at Adaptive Financial Consulting.
+
 <!--
 **bhf/bhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
